@@ -1,5 +1,3 @@
-# Nuances-creation.index.html
-Tissage artisanal conçu en France
 <!doctype html>
 <html lang="fr">
 <head>
